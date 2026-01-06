@@ -23,7 +23,3 @@ Since this is a client-side JavaScript application, there is no complex installa
     ```
 2.  **Open the project:**
     Navigate to the folder and open `index.html` in any modern web browser.
-
-
----
-**Made with ❤️ by [Your Name]**

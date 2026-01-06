@@ -64,3 +64,13 @@ body {
     cursor: pointer;
     font-family: Arial, sans-serif;
 }
+
+#clearButton{
+    background-color:#F4320B;
+}
+#saveButton{
+    background-color: #27CC35;
+}
+#retrieveButton{
+    background-color: #E1E352;
+}
